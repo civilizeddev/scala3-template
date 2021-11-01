@@ -1,6 +1,6 @@
 ThisBuild / organization      := "civilizeddev.github.io"
 ThisBuild / organizationName  := "David Lee"
-ThisBuild / scalaVersion      := "3.0.2"
+ThisBuild / scalaVersion      := "3.1.0"
 ThisBuild / scalafixOnCompile := true
 ThisBuild / javacOptions ++= Seq("-source", "1.8", "-target", "1.8")
 
